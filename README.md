@@ -7,7 +7,7 @@ I enjoy building end-to-end data solutions — from ETL pipelines to analytical 
 
 ## 🔭 Current Focus
 - **Data Engineering**: ETL pipelines, Airflow, dbt, PostgreSQL  
-- **Data Science**: Machine Learning & NLP  
+- **Data Science**: Machine Learning, Computer Vision & NLP  
 
 ---
 
