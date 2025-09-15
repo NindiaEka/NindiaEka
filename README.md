@@ -13,6 +13,13 @@ I enjoy building end-to-end data solutions — from ETL pipelines to analytical 
 
 ## 📂 Featured Projects
 
+📊 **Insightify – Causal Inference for Marketing Campaign Effectiveness - (Team Project)**  
+Analytics application using **causal inference** to measure the true impact of marketing campaigns.  
+- Estimated ATE, CATE, and ITE to evaluate campaign effectiveness.  
+- Identified customer segments most influenced by campaigns.  
+- Built a Streamlit app for prediction and simulation.  
+[🔗 Code](https://github.com/FTDS-assignment-bay/p2-final-project-new-ftds-030-hck-group02-insightify-project) | [⚡ Demo](https://causalinferencemodel.streamlit.app/)  
+
 🚜 **Flood Analytics for Farmers**  
 ETL + Dashboard to support agricultural decision-making  
 [🔗 Code](https://github.com/NindiaEka/Dashboard-Climate-and-Flood-Jakarta) | [📊 Demo](https://public.tableau.com/app/profile/nindia.ekasuci.larasati/viz/P0M1_Nindia-Ekasuci/Dashboard1?publish=yes)  
