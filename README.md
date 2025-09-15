@@ -17,7 +17,7 @@ I enjoy building end-to-end data solutions — from ETL pipelines to analytical 
 Analytics application using **causal inference** to measure the true impact of marketing campaigns.  
 - Estimated ATE, CATE, and ITE to evaluate campaign effectiveness.  
 - Identified customer segments most influenced by campaigns.  
-- Built a Streamlit app for prediction and simulation.  
+- Built a Streamlit app for prediction and simulation.
 [🔗 Code](https://github.com/FTDS-assignment-bay/p2-final-project-new-ftds-030-hck-group02-insightify-project) | [⚡ Demo](https://causalinferencemodel.streamlit.app/)  
 
 🚜 **Flood Analytics for Farmers**  
