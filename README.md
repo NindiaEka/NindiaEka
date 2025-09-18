@@ -22,7 +22,7 @@ Analytics application using **causal inference** to measure the true impact of m
 [🔗 Code](https://github.com/FTDS-assignment-bay/p2-final-project-new-ftds-030-hck-group02-insightify-project) | [⚡ Demo](https://causalinferencemodel.streamlit.app/)  
 
 🚜 **Flood Analytics for Farmers**  
-ETL + Dashboard to support agricultural decision-making  
+Dashboard to support agricultural decision-making  
 [🔗 Code](https://github.com/NindiaEka/Dashboard-Climate-and-Flood-Jakarta) | [📊 Demo](https://public.tableau.com/app/profile/nindia.ekasuci.larasati/viz/P0M1_Nindia-Ekasuci/Dashboard1?publish=yes)  
 
 🌍 **Earthquake Damage Severity Prediction System**  
