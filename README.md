@@ -1,7 +1,7 @@
 # Hi! I'm Nindia 👋  
 
 I'm a **Data Scientist / Data Engineer** passionate about turning raw data into impactful insights and scalable systems.  
-I enjoy building end-to-end data solutions — from ETL pipelines to analytical dashboards and machine learning models.  
+I enjoy building end-to-end data solutions from ETL pipelines to analytical dashboards and machine learning models.  
 
 ---
 
