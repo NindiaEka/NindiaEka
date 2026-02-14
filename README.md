@@ -9,7 +9,7 @@ With experience across **AI, machine learning, and data engineering**, I enjoy b
 
 ## 🚀 Featured Project
 
-🧠 **VTrack – Real-Time Object Tracking & Smart Surveillance (AI Engineer Intern Project)**  
+🧠 **VTrack – Real-Time Object Tracking & Smart Surveillance**  
 Developed an intelligent computer vision system for real-time object detection and tracking to support smart surveillance scenarios.
 
 - Built a deep learning-based detection + tracking pipeline.  
