@@ -1,6 +1,6 @@
 # Hi! I'm Nindia 👋  
 
-**AI Engineer Intern | Data Scientist | Data Engineer**  
+**Data Scientist | Data Engineer**  
 
 I'm passionate about transforming raw data into intelligent systems that create real-world impact.  
 With experience across **AI, machine learning, and data engineering**, I enjoy building end-to-end solutions — from data pipelines to deployed models powering production-ready applications.
