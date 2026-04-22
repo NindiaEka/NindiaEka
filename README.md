@@ -26,6 +26,7 @@ Developed an intelligent AI-powered system that generates personalized travel pl
 - Implemented tiered recommendations (Budget, Standard, Premium) with structured decision logic.
 - Integrated modular components for validation, pricing, and booking simulation.
 - Designed a scalable architecture enabling end-to-end flow from planning to booking. 
+
 [🔗 Code](https://github.com/NindiaEka/Vacation-Planner)
 ---
 
