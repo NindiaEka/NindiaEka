@@ -25,8 +25,7 @@ Developed an intelligent AI-powered system that generates personalized travel pl
 - Built an LLM-based planning pipeline using Llama 3 for multi-option itinerary generation.
 - Implemented tiered recommendations (Budget, Standard, Premium) with structured decision logic.
 - Integrated modular components for validation, pricing, and booking simulation.
-- Designed a scalable architecture enabling end-to-end flow from planning to booking.
-- 
+- Designed a scalable architecture enabling end-to-end flow from planning to booking. 
 [🔗 Code](https://github.com/NindiaEka/Vacation-Planner)
 ---
 
