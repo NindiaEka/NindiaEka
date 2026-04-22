@@ -17,8 +17,17 @@ Developed an intelligent computer vision system for real-time object detection a
 - Optimized inference performance for real-world deployment.  
 - Designed a scalable architecture adaptable to multiple surveillance environments.  
 
-[🔗 Code](https://github.com/NindiaEka/VTrack)
+[🔗 Code](https://github.com/NindiaEka/VTrack/tree/prototype)
 
+🧠 Autonomous Travel Planner (AI System)
+Developed an intelligent AI-powered system that generates personalized travel plans based on user preferences, budget, and schedule.
+
+- Built an LLM-based planning pipeline using Llama 3 for multi-option itinerary generation.
+- Implemented tiered recommendations (Budget, Standard, Premium) with structured decision logic.
+- Integrated modular components for validation, pricing, and booking simulation.
+- Designed a scalable architecture enabling end-to-end flow from planning to booking.
+- 
+[🔗 Code](https://github.com/NindiaEka/Vacation-Planner)
 ---
 
 ## 🔭 Current Focus
