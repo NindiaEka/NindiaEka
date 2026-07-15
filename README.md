@@ -64,7 +64,7 @@ AI-powered meeting assistant that automatically transcribes meetings, generates 
 
 ---
 
-🧠 **VTrack – Real-Time Object Tracking & Smart Surveillance**  
+## 🧠 **VTrack – Real-Time Object Tracking & Smart Surveillance**  
 Developed an intelligent computer vision system for real-time object detection and tracking to support smart surveillance scenarios.
 
 - Built a deep learning-based detection + tracking pipeline.  
@@ -74,15 +74,6 @@ Developed an intelligent computer vision system for real-time object detection a
 
 [🔗 Code](https://github.com/NindiaEka/VTrack/tree/prototype)
 
-🧠 Autonomous Travel Planner (AI System)
-Developed an intelligent AI-powered system that generates personalized travel plans based on user preferences, budget, and schedule.
-
-- Built an LLM-based planning pipeline using Llama 3 for multi-option itinerary generation.
-- Implemented tiered recommendations (Budget, Standard, Premium) with structured decision logic.
-- Integrated modular components for validation, pricing, and booking simulation.
-- Designed a scalable architecture enabling end-to-end flow from planning to booking. 
-
-[🔗 Code](https://github.com/NindiaEka/Vacation-Planner)
 ---
 
 ## 🔭 Current Focus
@@ -93,6 +84,16 @@ Developed an intelligent AI-powered system that generates personalized travel pl
 ---
 
 ## 📂 Other Featured Projects
+
+🧠 Autonomous Travel Planner (AI System)
+Developed an intelligent AI-powered system that generates personalized travel plans based on user preferences, budget, and schedule.
+
+- Built an LLM-based planning pipeline using Llama 3 for multi-option itinerary generation.
+- Implemented tiered recommendations (Budget, Standard, Premium) with structured decision logic.
+- Integrated modular components for validation, pricing, and booking simulation.
+- Designed a scalable architecture enabling end-to-end flow from planning to booking. 
+
+[🔗 Code](https://github.com/NindiaEka/Vacation-Planner)
 
 📊 **Insightify – Causal Inference for Marketing Campaign Effectiveness (Team Project)**  
 Analytics application using **causal inference** to measure the true impact of marketing campaigns.  
