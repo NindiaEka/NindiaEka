@@ -1,13 +1,68 @@
 # Hi! I'm Nindia 👋  
 
-**Data Scientist | Data Engineer**  
+**AI Engineer | Data Scientist | Data Engineer**  
 
-I'm passionate about transforming raw data into intelligent systems that create real-world impact.  
-With experience across **AI, machine learning, and data engineering**, I enjoy building end-to-end solutions — from data pipelines to deployed models powering production-ready applications.
+I'm passionate about building intelligent systems that solve real-world problems.
+
+My experience spans both **Computer Vision** and **Generative AI**, from training object detection models and developing Computer Vision frameworks to building LLM-powered applications, AI automation, and self-hosted chatbot platforms.
+
+I enjoy designing end-to-end AI systems using modern AI frameworks, scalable backend services, and production-ready machine learning pipelines.
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
+
+## 👁️ Computer Vision Framework
+
+End-to-end framework for training, validating, and deploying Computer Vision models.
+
+- Designed standardized training and inference workflows.
+- Built automated inference and post-training demonstration pipelines.
+- Improved developer productivity through modular architecture.
+- Produced comprehensive technical documentation.
+
+[🔗 Code](https://github.com/NindiaEka/computervision-YOLO)
+
+---
+
+## 🤖 Local LLM Chatbot Platform
+
+Self-hosted conversational AI platform powered by local Large Language Models.
+
+- Integrated OpenClaw with FastAPI.
+- Built REST APIs for local AI inference.
+- Designed modular architecture for multiple local LLM providers.
+- Optimized deployment for private enterprise environments.
+
+[🔗 Code](https://github.com/NindiaEka/local-LLM)
+
+---
+
+## 📈 AI Market Intelligence Platform
+
+Enterprise AI platform that automates company research and business profile generation using multiple online data sources.
+
+- Built multi-source company research pipelines.
+- Implemented LLM-powered business report generation.
+- Designed modular FastAPI services.
+- Developed company resolution and website validation workflows.
+
+[🔗 Code](https://github.com/NindiaEka/Market-Intelligence)
+
+---
+
+## 🧠 AI Meeting Minutes (MoM) Notetaker
+
+AI-powered meeting assistant that automatically transcribes meetings, generates structured summaries, extracts action items, and delivers reports through WhatsApp.
+
+- Built speech-to-text and LLM summarization pipelines.
+- Automated meeting minutes generation using Whisper and LLMs.
+- Developed scalable FastAPI backend services.
+- Integrated WhatsApp for automated report delivery.
+
+[🔗 Code](https://github.com/NindiaEka/meeting-summary/tree/nindia)
+
+---
 
 🧠 **VTrack – Real-Time Object Tracking & Smart Surveillance**  
 Developed an intelligent computer vision system for real-time object detection and tracking to support smart surveillance scenarios.
